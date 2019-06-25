@@ -2,16 +2,15 @@
 
 ## Instalación
 
-- git clone
-- cd ApiREST.NodeJS
-- npm install
-
+```bash
+  git clone
+  cd ApiREST.NodeJS
+  npm install
+```
 
 ## Ejecución
 
-- npm run dev
-
 ```bash
-npm install socket.io
+npm run dev
 ```
 
