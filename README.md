@@ -2,9 +2,12 @@
 
 ## Instalación
 
+Clonar
 ```bash
-  git clone <URL>
+  git clone https://github.com/mvaldebv/ApiREST.NodeJS.git
 ```  
+
+Instalar
 ```bash
   cd ApiREST.NodeJS
 ```
