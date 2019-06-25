@@ -11,4 +11,7 @@
 
 - npm run dev
 
+```bash
+npm install socket.io
+```
 
